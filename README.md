@@ -1,4 +1,4 @@
-# Just-Nicks
+# 🐾 Just-Nicks
 ### 💻 About Me
 - Full-Stack em **Web Developer**
 - Amaurer in Pixel art's and Godot Engine
