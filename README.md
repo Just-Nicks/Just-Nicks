@@ -1,6 +1,7 @@
 # 🐾 Just-Nicks
 ### 💻 About Me
-- Full-Stack em **Web Developer**
+- Full-Stack **Web Developer**
+- Web designer, Brand designer, Logo designer
 - Amaurer in Pixel art's and Godot Engine
 - ADS Student
   
